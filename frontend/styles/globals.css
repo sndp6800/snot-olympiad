@@ -46,10 +46,10 @@
   }
 
   .btn-ghost {
-  @apply inline-flex items-center gap-2 px-4 py-2 text-gray-600 dark:text-gray-300
-  hover:text-primary-600 dark:hover:text-primary-400 font-medium rounded-lg
-  hover:bg-primary-50 dark:hover:bg-gray-900 transition-all duration-200;
-}
+    @apply inline-flex items-center gap-2 px-4 py-2 text-gray-600 dark:text-gray-300
+    hover:text-primary-600 dark:hover:text-primary-400 font-medium rounded-lg
+    hover:bg-primary-50 dark:hover:bg-gray-900 transition-all duration-200;
+  }
 
   .card {
     @apply bg-white dark:bg-gray-900 rounded-2xl border border-gray-100 dark:border-gray-800
